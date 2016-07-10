@@ -2,8 +2,8 @@ name: StockQuote
 account: rreckley
 server: shinyapps.io
 appId: 112422
-bundleId: 496416
+bundleId: 501216
 url: https://rreckley.shinyapps.io/StockQuote/
-when: 1467680387.07646
+when: 1468182597.67123
 asMultiple: FALSE
 asStatic: FALSE
